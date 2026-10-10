@@ -4,8 +4,7 @@ data/raw/*
 
 # Generated files
 *.db
-reports/*.md
-!reports/.gitkeep
+
 
 # Python junk
 __pycache__/
