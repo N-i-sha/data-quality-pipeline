@@ -1,0 +1,14 @@
+# Big raw data stays on your laptop, not on GitHub
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated files
+*.db
+reports/*.md
+!reports/.gitkeep
+
+# Python junk
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
